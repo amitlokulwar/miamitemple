@@ -1,0 +1,62 @@
+/*
+* Add child theme CSS Rules
+*/
+.bottom_border
+{
+	border-bottom: 1px dotted #585858;
+}
+#footer p
+{
+	color: #fff !important;
+}
+.small_footer
+{
+		border-top: 1px solid #fff !important; 
+}
+.top-menu-border
+{
+	float: left !important; 
+    margin-top: 98px !important; 
+        width: 98% !important;
+        border-top: 1px solid #C7C5B8;
+        border-bottom: 1px solid #C7C5B8;
+    border-radius: 0px;
+}
+.top-menu
+{
+	float: left !important; 
+	width: 100% !important;
+}
+#top_strip
+{
+	background: #423223 !important;
+	height: 30px;
+    padding: 5px 5px;
+}
+.container_right
+{
+	float: right !important; 
+	width: 60%;
+}
+.right_share
+{
+	float: right !important; 
+	width: 40%;
+}
+.right_search
+{
+	float: right !important; 
+	
+}
+.container_right
+{
+	width: 60%;
+}
+.whitebox_shadow,.whitebox_shadow2
+{
+	width: 200px !important;
+}
+#container_main
+{
+	    background: #fff !important;
+}

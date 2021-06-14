@@ -1,0 +1,3 @@
+http://localhost/w/miamitemple/
+username:admin
+password:v8k661sbRiKYNRiHhn
